@@ -18,7 +18,12 @@
     overflow: scroll;
   }
 
-  button {
+  .empty-message {
+    font-size: 19px;
+    margin: 50px auto;
+  }
+
+  button {  
     margin-top: auto;
   }
 }
