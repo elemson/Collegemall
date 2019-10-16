@@ -1,5 +1,5 @@
 const SHOP_DATA = {
-  hats : {
+  hats: {
     id: 1,
     title: "Hats",
     routeName: "hats",
@@ -116,8 +116,7 @@ const SHOP_DATA = {
     ]
   },
 
-
- jackets: {
+  jackets: {
     id: 3,
     title: "Jackets",
     routeName: "jackets",
@@ -246,6 +245,6 @@ const SHOP_DATA = {
       }
     ]
   }
-}
+};
 
 export default SHOP_DATA;
