@@ -15,7 +15,6 @@ const CollectionPage = ({ collection, state }) => {
           <CollectionItem key={item.id} item={item} />
         ))}
       </div>
-      <h1>fihdfhds</h1>
     </div>
   );
 };

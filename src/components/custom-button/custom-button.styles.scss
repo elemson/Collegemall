@@ -1,4 +1,4 @@
- .custom-button {
+.custom-button {
   min-width: 165px;
   width: auto;
   height: 50px;
@@ -11,10 +11,11 @@
   text-decoration: uppercase;
   font-family: "open sans condensed";
   font-weight: bolder;
-  border: none;
+  border: 1px solid red;
   cursor: pointer;
   display: flex;
   justify-content: center;
+  border-radius: 5px;
 
   &:hover {
     background: white;
